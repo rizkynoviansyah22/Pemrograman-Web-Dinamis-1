@@ -1,14 +1,14 @@
-#🧠 Tugas 1  Pemrograman Web Dinamis
+# 🧠 Tugas 1  Pemrograman Web Dinamis
 
 by Rizky Noviansyah (NIM: 2300018364)
 
-🚀 Deskripsi Singkat
+## 🚀 Deskripsi Singkat
 
 Tugas ini dibuat sebagai implementasi dasar dari konsep Pemrograman Web Dinamis, di mana website gak cuma tampil statis, tapi bisa berinteraksi dengan pengguna melalui koneksi database dan pemrosesan data secara real-time.
 
 Intinya, ini bukan sekadar HTML dan CSS doang — tapi udah mulai ngobrol sama server dan database kayak duo maut PHP dan MySQL 😁
 
-⚙️ Fitur Utama
+## ⚙️ Fitur Utama
 
 🧩 Koneksi Database (MySQL) — biar data gak cuma nongkrong di file PHP.
 
@@ -19,8 +19,13 @@ Intinya, ini bukan sekadar HTML dan CSS doang — tapi udah mulai ngobrol sama s
 🔍 Tampilan Data Dinamis — data terbaru langsung muncul di halaman setelah disimpan.
 
 🧰 Teknologi yang Digunakan
-Komponen	Keterangan
+
+## Komponen	Keterangan
+
 🐘 PHP	Bahasa server-side untuk proses logika dan CRUD
+
 🗃️ MySQL	Database untuk menyimpan data mahasiswa
+
 🧱 HTML & CSS	Struktur dan tampilan halaman
+
 ⚡ XAMPP	Server lokal yang menyatukan semuanya
