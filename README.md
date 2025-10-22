@@ -1,5 +1,7 @@
-🧠 Tugas 1 — Pemrograman Web Dinamis
+#🧠 Tugas 1  Pemrograman Web Dinamis
+
 by Rizky Noviansyah (NIM: 2300018364)
+
 🚀 Deskripsi Singkat
 
 Tugas ini dibuat sebagai implementasi dasar dari konsep Pemrograman Web Dinamis, di mana website gak cuma tampil statis, tapi bisa berinteraksi dengan pengguna melalui koneksi database dan pemrosesan data secara real-time.
