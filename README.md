@@ -6,7 +6,6 @@ by Rizky Noviansyah (NIM: 2300018364)
 
 Tugas ini dibuat sebagai implementasi dasar dari konsep Pemrograman Web Dinamis, di mana website gak cuma tampil statis, tapi bisa berinteraksi dengan pengguna melalui koneksi database dan pemrosesan data secara real-time.
 
-Intinya, ini bukan sekadar HTML dan CSS doang — tapi udah mulai ngobrol sama server dan database kayak duo maut PHP dan MySQL 😁
 
 ## ⚙️ Fitur Utama
 
